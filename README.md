@@ -1,3 +1,7 @@
-# ChopChop
-NewProject
-11111111111111
+public void Main {
+int a = 3;
+int b = 1;
+int c = a+b;
+ Console.Writeline(c);
+
+}
