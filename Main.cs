@@ -14,6 +14,7 @@ namespace Stan
         {
             int b = 1000;
             int h = 1000;
+            int D = 1000;
         }
        
 
