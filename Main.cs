@@ -12,7 +12,8 @@ namespace Stan
     {
         static void Main()
         {
-            
+            int b = 1000;
+            int h = 1000;
         }
        
 
