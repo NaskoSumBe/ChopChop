@@ -4951,7 +4951,9 @@
                               "});\r",
                               "pm.test(\"Response time is less than 500ms\", function () {\r",
                               "    pm.expect(pm.response.responseTime).to.be.below(500);\r",
-                              "});"
+                              "});\r",
+                              "\r",
+                              "//test"
                             ],
                             "type": "text/javascript"
                           }
@@ -6983,7 +6985,7 @@
   ],
   "variable": [
     {
-      "id": "23e0bd97-2f0f-4fa0-878f-58f871cfab63",
+      "id": "d4a24e42-0978-436e-a03f-6e0a24c57b13",
       "key": "BaseURL",
       "value": "https://petstore.swagger.io/v2",
       "type": "string"
