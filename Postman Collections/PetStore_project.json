@@ -29,7 +29,7 @@
                           "pm.test(\"Status code is 200\", function () {\r",
                           "        pm.response.to.have.status(200);\r",
                           "});\r",
-                          "// ТЕСТИНГГГГГГГГГГГ"
+                          "// TEstingggg"
                         ],
                         "type": "text/javascript"
                       }
@@ -6983,7 +6983,7 @@
   ],
   "variable": [
     {
-      "id": "bade7a25-b370-43aa-a6ca-f1dff6ba8270",
+      "id": "23e0bd97-2f0f-4fa0-878f-58f871cfab63",
       "key": "BaseURL",
       "value": "https://petstore.swagger.io/v2",
       "type": "string"
