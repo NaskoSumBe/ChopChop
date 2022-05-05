@@ -228,7 +228,7 @@
                                   "    \"id\": {\"type\": \"integer\"},\r",
                                   "    \"petId\": {\"type\": \"integer\"},\r",
                                   "    \"quantity\": {\"type\": \"integer\"},\r",
-                                  "    \"shipDate\": {\"type\": \"boolean\"},\r",
+                                  "    \"shipDate\": {\"type\": \"integer\"},\r",
                                   "    \"status\": {\"type\": \"string\" },\r",
                                   "    \"complete\": {\"type\": \"boolean\"}\r",
                                   "  },\r",
@@ -6985,7 +6985,7 @@
   ],
   "variable": [
     {
-      "id": "c345093a-230b-4269-a5a2-a4ed6aa854a3",
+      "id": "b80a371d-2a80-4b15-9b0e-cd06c3d3d3e9",
       "key": "BaseURL",
       "value": "https://petstore.swagger.io/v2",
       "type": "string"
