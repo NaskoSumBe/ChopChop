@@ -28,13 +28,14 @@
                           "\r",
                           "pm.test(\"Status code is 200\", function () {\r",
                           "        pm.response.to.have.status(200);\r",
-                          "});"
+                          "});\r",
+                          "// ТЕСТИНГГГГГГГГГГГ"
                         ],
                         "type": "text/javascript"
                       }
                     }
                   ],
-                  "_postman_id": "670c99a8-e332-4cb8-9cc6-8a21c95adcd7",
+                  "id": "670c99a8-e332-4cb8-9cc6-8a21c95adcd7",
                   "protocolProfileBehavior": {
                     "disableBodyPruning": true
                   },
@@ -70,7 +71,7 @@
                       }
                     }
                   ],
-                  "_postman_id": "c01e7098-62b4-499a-92f5-dc665330dba5",
+                  "id": "c01e7098-62b4-499a-92f5-dc665330dba5",
                   "protocolProfileBehavior": {
                     "disableBodyPruning": true
                   },
@@ -106,7 +107,7 @@
                       }
                     }
                   ],
-                  "_postman_id": "6f9b4a66-2ad4-45d2-bcf3-727baa2fa436",
+                  "id": "6f9b4a66-2ad4-45d2-bcf3-727baa2fa436",
                   "protocolProfileBehavior": {
                     "disableBodyPruning": true
                   },
@@ -159,7 +160,7 @@
                       }
                     }
                   ],
-                  "_postman_id": "be70168c-ad2e-4a7e-a943-390dfbc969b4",
+                  "id": "be70168c-ad2e-4a7e-a943-390dfbc969b4",
                   "protocolProfileBehavior": {
                     "disableBodyPruning": true
                   },
@@ -198,8 +199,7 @@
                   "response": []
                 }
               ],
-              "_postman_id": "8fd4cad4-bd17-46d7-8075-e746583e8cf9",
-              "_postman_isSubFolder": true
+              "id": "8fd4cad4-bd17-46d7-8075-e746583e8cf9"
             },
             {
               "name": "TestCase-UserStory- 101 /New Order/",
@@ -251,7 +251,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "c58228e9-fdc0-4391-a8d1-50dbcb8c9051",
+                          "id": "c58228e9-fdc0-4391-a8d1-50dbcb8c9051",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -272,8 +272,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "48bedb59-aa8f-4636-9ea5-3a86fdc63493",
-                      "_postman_isSubFolder": true
+                      "id": "48bedb59-aa8f-4636-9ea5-3a86fdc63493"
                     },
                     {
                       "name": "TC-002",
@@ -297,7 +296,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "a0e6f8b9-64aa-408e-8d05-e2617be39ce2",
+                          "id": "a0e6f8b9-64aa-408e-8d05-e2617be39ce2",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -318,8 +317,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "7a4250a8-963c-4e08-9ced-de9a44865cc6",
-                      "_postman_isSubFolder": true
+                      "id": "7a4250a8-963c-4e08-9ced-de9a44865cc6"
                     },
                     {
                       "name": "TC-003",
@@ -343,7 +341,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "b0c17475-8c69-4d3c-8344-e612d40ff202",
+                          "id": "b0c17475-8c69-4d3c-8344-e612d40ff202",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -364,8 +362,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "9aac38ae-f1f7-4956-9936-9f2f97e0ddf9",
-                      "_postman_isSubFolder": true
+                      "id": "9aac38ae-f1f7-4956-9936-9f2f97e0ddf9"
                     },
                     {
                       "name": "TC-004",
@@ -389,7 +386,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "701cd8d5-e487-480c-a1be-1d52135bed2f",
+                          "id": "701cd8d5-e487-480c-a1be-1d52135bed2f",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -410,8 +407,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "3bb61871-8ab2-4171-8652-d4bb4e79f866",
-                      "_postman_isSubFolder": true
+                      "id": "3bb61871-8ab2-4171-8652-d4bb4e79f866"
                     },
                     {
                       "name": "TC-005",
@@ -435,7 +431,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "08c1de6b-9deb-45c6-a140-6522b5f2b14f",
+                          "id": "08c1de6b-9deb-45c6-a140-6522b5f2b14f",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -456,12 +452,10 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "363db825-f141-4cd2-a243-295d552ebd89",
-                      "_postman_isSubFolder": true
+                      "id": "363db825-f141-4cd2-a243-295d552ebd89"
                     }
                   ],
-                  "_postman_id": "d6f28f62-6a88-460c-b582-1b60427a08ba",
-                  "_postman_isSubFolder": true
+                  "id": "d6f28f62-6a88-460c-b582-1b60427a08ba"
                 },
                 {
                   "name": "TS-002 /Quantity/",
@@ -488,7 +482,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "393a695d-a249-4956-8739-b425c99466c6",
+                          "id": "393a695d-a249-4956-8739-b425c99466c6",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -509,8 +503,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "d1e819c5-737e-4604-851d-c55bf21cad6e",
-                      "_postman_isSubFolder": true
+                      "id": "d1e819c5-737e-4604-851d-c55bf21cad6e"
                     },
                     {
                       "name": "TC-007",
@@ -534,7 +527,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "8d42c888-f7a0-41c4-a9be-c03bee49f54d",
+                          "id": "8d42c888-f7a0-41c4-a9be-c03bee49f54d",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -555,8 +548,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "e4ade54f-61dd-4553-a6b7-ae9e0114500f",
-                      "_postman_isSubFolder": true
+                      "id": "e4ade54f-61dd-4553-a6b7-ae9e0114500f"
                     },
                     {
                       "name": "TC-008",
@@ -580,7 +572,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "025ee374-21ed-48fd-9fce-7dbfdb60dbb0",
+                          "id": "025ee374-21ed-48fd-9fce-7dbfdb60dbb0",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -601,8 +593,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "4d0a2d1e-0547-4018-91d5-7cfbdc9beb53",
-                      "_postman_isSubFolder": true
+                      "id": "4d0a2d1e-0547-4018-91d5-7cfbdc9beb53"
                     },
                     {
                       "name": "TC-009",
@@ -626,7 +617,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "e7c5646e-bbb4-45ca-90fd-ee9fb37bb456",
+                          "id": "e7c5646e-bbb4-45ca-90fd-ee9fb37bb456",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -647,8 +638,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "1cc78432-dac5-46be-b3a6-cc1f76cde587",
-                      "_postman_isSubFolder": true
+                      "id": "1cc78432-dac5-46be-b3a6-cc1f76cde587"
                     },
                     {
                       "name": "TC-010",
@@ -672,7 +662,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "529c12bf-9adb-4343-a1d6-79f552b190cb",
+                          "id": "529c12bf-9adb-4343-a1d6-79f552b190cb",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -693,8 +683,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "9be12f2d-6895-4501-bd78-4119caac3fed",
-                      "_postman_isSubFolder": true
+                      "id": "9be12f2d-6895-4501-bd78-4119caac3fed"
                     },
                     {
                       "name": "TC-011",
@@ -718,7 +707,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "6b970b11-e8e5-4347-8760-d99136f80be9",
+                          "id": "6b970b11-e8e5-4347-8760-d99136f80be9",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -739,8 +728,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "f33d509c-e6d4-404c-8a0d-a74ace8f5461",
-                      "_postman_isSubFolder": true
+                      "id": "f33d509c-e6d4-404c-8a0d-a74ace8f5461"
                     },
                     {
                       "name": "TC-012",
@@ -764,7 +752,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "1fbf3a01-4447-40d3-91d1-bec1876ffaa4",
+                          "id": "1fbf3a01-4447-40d3-91d1-bec1876ffaa4",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -785,12 +773,10 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "776311d2-c1fd-474d-9d9c-2cdfb56d76a2",
-                      "_postman_isSubFolder": true
+                      "id": "776311d2-c1fd-474d-9d9c-2cdfb56d76a2"
                     }
                   ],
-                  "_postman_id": "5b2fff42-e742-4607-badb-a4a5dd13c751",
-                  "_postman_isSubFolder": true
+                  "id": "5b2fff42-e742-4607-badb-a4a5dd13c751"
                 },
                 {
                   "name": "TS-003 /Complete section/",
@@ -820,7 +806,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "84ff0139-2a3f-40e7-96d8-d9a03f96e171",
+                          "id": "84ff0139-2a3f-40e7-96d8-d9a03f96e171",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -841,8 +827,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "90a6a598-eca7-4d6e-b3cb-5ece8aecce41",
-                      "_postman_isSubFolder": true
+                      "id": "90a6a598-eca7-4d6e-b3cb-5ece8aecce41"
                     },
                     {
                       "name": "TC-014",
@@ -869,7 +854,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "f0f8bb75-6c8d-422d-81a5-c61a5eb0793e",
+                          "id": "f0f8bb75-6c8d-422d-81a5-c61a5eb0793e",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -890,8 +875,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "284bc7b0-489d-498f-a8fa-d9076255126e",
-                      "_postman_isSubFolder": true
+                      "id": "284bc7b0-489d-498f-a8fa-d9076255126e"
                     },
                     {
                       "name": "TC-015",
@@ -917,7 +901,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "0b8d9a0f-d4b0-4eca-8672-f5bc21221b00",
+                          "id": "0b8d9a0f-d4b0-4eca-8672-f5bc21221b00",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -938,8 +922,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "52fea0aa-d0d6-4903-83b2-c6e0d2a7e9fe",
-                      "_postman_isSubFolder": true
+                      "id": "52fea0aa-d0d6-4903-83b2-c6e0d2a7e9fe"
                     },
                     {
                       "name": "TC-016",
@@ -963,7 +946,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "3670625b-7b5e-44ae-b54a-63af2dc64bf6",
+                          "id": "3670625b-7b5e-44ae-b54a-63af2dc64bf6",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -984,8 +967,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "41b66028-f8d9-4948-a937-a56e769aa55e",
-                      "_postman_isSubFolder": true
+                      "id": "41b66028-f8d9-4948-a937-a56e769aa55e"
                     },
                     {
                       "name": "TC-017",
@@ -1009,7 +991,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "c702e133-8f5d-4d3b-895e-d19d52c33fb6",
+                          "id": "c702e133-8f5d-4d3b-895e-d19d52c33fb6",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1030,8 +1012,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "1f3dfe91-21e7-40ab-aca0-39f101a795ac",
-                      "_postman_isSubFolder": true
+                      "id": "1f3dfe91-21e7-40ab-aca0-39f101a795ac"
                     },
                     {
                       "name": "TC-018",
@@ -1055,7 +1036,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "c17d429e-2522-4fdd-a9d0-b25028e61ad0",
+                          "id": "c17d429e-2522-4fdd-a9d0-b25028e61ad0",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1076,12 +1057,10 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "4c8b2f8b-ca0b-49a0-9830-7c53f04c2c1f",
-                      "_postman_isSubFolder": true
+                      "id": "4c8b2f8b-ca0b-49a0-9830-7c53f04c2c1f"
                     }
                   ],
-                  "_postman_id": "31aca64f-55b0-4a85-be62-42ed1ead4eb0",
-                  "_postman_isSubFolder": true
+                  "id": "31aca64f-55b0-4a85-be62-42ed1ead4eb0"
                 },
                 {
                   "name": "TS-004 /Date Format/",
@@ -1108,7 +1087,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "80562e72-ca28-4dbf-9176-f9d850c2b3a0",
+                          "id": "80562e72-ca28-4dbf-9176-f9d850c2b3a0",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1129,8 +1108,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "2917101a-bc6f-4fff-bb33-570bfcf8f9a5",
-                      "_postman_isSubFolder": true
+                      "id": "2917101a-bc6f-4fff-bb33-570bfcf8f9a5"
                     },
                     {
                       "name": "TC-020",
@@ -1154,7 +1132,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "76e0cf91-d8ed-4c58-9b31-947042577ef3",
+                          "id": "76e0cf91-d8ed-4c58-9b31-947042577ef3",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1175,8 +1153,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "cabe2784-82b6-45ba-a336-7be72dc6a5a5",
-                      "_postman_isSubFolder": true
+                      "id": "cabe2784-82b6-45ba-a336-7be72dc6a5a5"
                     },
                     {
                       "name": "TC-021",
@@ -1200,7 +1177,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "a117b934-d5ab-475d-b68b-9f031e993841",
+                          "id": "a117b934-d5ab-475d-b68b-9f031e993841",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1221,8 +1198,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "bc93485d-a898-4857-8f70-0284bb1aeb9d",
-                      "_postman_isSubFolder": true
+                      "id": "bc93485d-a898-4857-8f70-0284bb1aeb9d"
                     },
                     {
                       "name": "TC-022",
@@ -1246,7 +1222,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "85d4bb7f-5a69-443b-acb9-1fa6d0416b16",
+                          "id": "85d4bb7f-5a69-443b-acb9-1fa6d0416b16",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1267,8 +1243,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "ccf57cca-a0f1-4db5-83a3-b261a8c3736b",
-                      "_postman_isSubFolder": true
+                      "id": "ccf57cca-a0f1-4db5-83a3-b261a8c3736b"
                     },
                     {
                       "name": "TC-023",
@@ -1292,7 +1267,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "ddc81307-7057-4ce0-abda-d0c0c24bf213",
+                          "id": "ddc81307-7057-4ce0-abda-d0c0c24bf213",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1313,8 +1288,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "78d9eb3f-8951-4b60-9e1e-6db0d9c03172",
-                      "_postman_isSubFolder": true
+                      "id": "78d9eb3f-8951-4b60-9e1e-6db0d9c03172"
                     },
                     {
                       "name": "TC-024",
@@ -1338,7 +1312,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "a67d1e1d-7237-4d52-ae85-a95a29589103",
+                          "id": "a67d1e1d-7237-4d52-ae85-a95a29589103",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1359,8 +1333,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "04c81d3b-205f-49af-b3c8-a47f0760e26b",
-                      "_postman_isSubFolder": true
+                      "id": "04c81d3b-205f-49af-b3c8-a47f0760e26b"
                     },
                     {
                       "name": "TC-025",
@@ -1384,7 +1357,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "b8473b6d-dd41-4da0-bc4e-5d9a74c9851b",
+                          "id": "b8473b6d-dd41-4da0-bc4e-5d9a74c9851b",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1405,8 +1378,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "dd56c967-7fa1-4ec2-804c-da3bc38ca062",
-                      "_postman_isSubFolder": true
+                      "id": "dd56c967-7fa1-4ec2-804c-da3bc38ca062"
                     },
                     {
                       "name": "TC-026",
@@ -1430,7 +1402,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "d6a7ddba-f542-4ac2-a5f5-ad72e9962264",
+                          "id": "d6a7ddba-f542-4ac2-a5f5-ad72e9962264",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1451,8 +1423,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "259ab960-c8f9-4949-ac22-1eab68ae0d92",
-                      "_postman_isSubFolder": true
+                      "id": "259ab960-c8f9-4949-ac22-1eab68ae0d92"
                     },
                     {
                       "name": "TC-027",
@@ -1476,7 +1447,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "e3c5b326-b309-4a6a-8c75-3cdeb6d06e8b",
+                          "id": "e3c5b326-b309-4a6a-8c75-3cdeb6d06e8b",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1497,8 +1468,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "729d9e34-12ca-4e4f-b7e6-e2cccb5a6ac2",
-                      "_postman_isSubFolder": true
+                      "id": "729d9e34-12ca-4e4f-b7e6-e2cccb5a6ac2"
                     },
                     {
                       "name": "TC-028",
@@ -1522,7 +1492,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "f09c59b3-1478-4713-858d-cb23c1f4462c",
+                          "id": "f09c59b3-1478-4713-858d-cb23c1f4462c",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1543,16 +1513,13 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "0ef241ce-a37d-415e-8d36-006e68cb618b",
-                      "_postman_isSubFolder": true
+                      "id": "0ef241ce-a37d-415e-8d36-006e68cb618b"
                     }
                   ],
-                  "_postman_id": "b91d879d-2e12-4010-920d-f488c6f51a96",
-                  "_postman_isSubFolder": true
+                  "id": "b91d879d-2e12-4010-920d-f488c6f51a96"
                 }
               ],
-              "_postman_id": "69729316-bbe0-4a8d-9391-6e4b90dfa00b",
-              "_postman_isSubFolder": true
+              "id": "69729316-bbe0-4a8d-9391-6e4b90dfa00b"
             },
             {
               "name": "TestCases- UserStory- 101.1 /Preview ID/",
@@ -1582,7 +1549,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "6aa4b265-6add-44d8-8feb-3fa0a041a2c6",
+                          "id": "6aa4b265-6add-44d8-8feb-3fa0a041a2c6",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1623,7 +1590,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "8511665b-13b2-4daa-a509-0bd95b384c9c",
+                          "id": "8511665b-13b2-4daa-a509-0bd95b384c9c",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1653,7 +1620,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "7a9b78c3-9615-4b45-b83e-6c30da717e3d",
+                          "id": "7a9b78c3-9615-4b45-b83e-6c30da717e3d",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1665,8 +1632,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "70577327-4f68-4ae1-8147-2f835a9b91ac",
-                      "_postman_isSubFolder": true
+                      "id": "70577327-4f68-4ae1-8147-2f835a9b91ac"
                     },
                     {
                       "name": "ТC-002 Try to preview Deleted Order",
@@ -1690,7 +1656,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "91fed395-3c5a-4192-ab70-8fd1410571cd",
+                          "id": "91fed395-3c5a-4192-ab70-8fd1410571cd",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1729,7 +1695,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "4196c09d-0286-4a35-8a34-08bb2f671c29",
+                          "id": "4196c09d-0286-4a35-8a34-08bb2f671c29",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1760,7 +1726,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "e7ce9b2f-f66f-43e8-9462-96277a4bccf6",
+                          "id": "e7ce9b2f-f66f-43e8-9462-96277a4bccf6",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1772,16 +1738,13 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "295a1500-cf2a-43f1-bef6-c2a3da7a08ce",
-                      "_postman_isSubFolder": true
+                      "id": "295a1500-cf2a-43f1-bef6-c2a3da7a08ce"
                     }
                   ],
-                  "_postman_id": "e81bf0bd-419f-435e-9445-be512f0bd2cc",
-                  "_postman_isSubFolder": true
+                  "id": "e81bf0bd-419f-435e-9445-be512f0bd2cc"
                 }
               ],
-              "_postman_id": "a47ec288-49e3-4737-8c94-19dd7096247a",
-              "_postman_isSubFolder": true
+              "id": "a47ec288-49e3-4737-8c94-19dd7096247a"
             },
             {
               "name": "TestCase-UserStory- 101.2 /Delete ID/",
@@ -1811,7 +1774,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "f3c6ded9-a56d-4e9d-a9c8-847b667ccba4",
+                          "id": "f3c6ded9-a56d-4e9d-a9c8-847b667ccba4",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1850,7 +1813,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "790741b7-a629-4b81-bcd0-9d95fd963262",
+                          "id": "790741b7-a629-4b81-bcd0-9d95fd963262",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1871,12 +1834,10 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "e0757eee-ef4e-48f3-acc0-f86cc8462a08",
-                      "_postman_isSubFolder": true
+                      "id": "e0757eee-ef4e-48f3-acc0-f86cc8462a08"
                     }
                   ],
-                  "_postman_id": "6ca026e2-6e74-42db-97bf-eb1c3f1679c0",
-                  "_postman_isSubFolder": true
+                  "id": "6ca026e2-6e74-42db-97bf-eb1c3f1679c0"
                 },
                 {
                   "name": "TS-002",
@@ -1903,7 +1864,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "8939aaa2-3d9f-4f25-975f-b23d7c236339",
+                          "id": "8939aaa2-3d9f-4f25-975f-b23d7c236339",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1942,7 +1903,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "144c8789-0db6-47ae-a618-50e8ed224fa1",
+                          "id": "144c8789-0db6-47ae-a618-50e8ed224fa1",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -1963,12 +1924,10 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "98403e92-07fb-4d3a-8acb-de7900f034c2",
-                      "_postman_isSubFolder": true
+                      "id": "98403e92-07fb-4d3a-8acb-de7900f034c2"
                     }
                   ],
-                  "_postman_id": "1eb1ab3a-91be-48d8-9f8e-380144f4e061",
-                  "_postman_isSubFolder": true
+                  "id": "1eb1ab3a-91be-48d8-9f8e-380144f4e061"
                 },
                 {
                   "name": "TS-003",
@@ -1995,7 +1954,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "4f85d59f-59f4-4376-aff4-73e1adb10f22",
+                          "id": "4f85d59f-59f4-4376-aff4-73e1adb10f22",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -2034,7 +1993,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "68388d32-c43b-4256-af2f-748a3f0274a3",
+                          "id": "68388d32-c43b-4256-af2f-748a3f0274a3",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -2055,20 +2014,16 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "474e205e-fc6a-4501-b5fb-621929d27c16",
-                      "_postman_isSubFolder": true
+                      "id": "474e205e-fc6a-4501-b5fb-621929d27c16"
                     }
                   ],
-                  "_postman_id": "840bbaf5-8ccc-4023-8d6c-5e9b63825996",
-                  "_postman_isSubFolder": true
+                  "id": "840bbaf5-8ccc-4023-8d6c-5e9b63825996"
                 }
               ],
-              "_postman_id": "1c2a7b39-d4e9-4403-9113-dd9cdc043e7c",
-              "_postman_isSubFolder": true
+              "id": "1c2a7b39-d4e9-4403-9113-dd9cdc043e7c"
             }
           ],
-          "_postman_id": "bbe711d0-11cf-4b2d-84da-0a5f9379c7f1",
-          "_postman_isSubFolder": true
+          "id": "bbe711d0-11cf-4b2d-84da-0a5f9379c7f1"
         },
         {
           "name": "Pet",
@@ -2105,7 +2060,7 @@
                       }
                     }
                   ],
-                  "_postman_id": "0408d8b4-9fdb-41c9-90a2-b5469dad1202",
+                  "id": "0408d8b4-9fdb-41c9-90a2-b5469dad1202",
                   "protocolProfileBehavior": {
                     "disableBodyPruning": true
                   },
@@ -2142,7 +2097,7 @@
                       }
                     }
                   ],
-                  "_postman_id": "250bcdf4-5a6e-45c7-8d6f-aaa72b692610",
+                  "id": "250bcdf4-5a6e-45c7-8d6f-aaa72b692610",
                   "protocolProfileBehavior": {
                     "disableBodyPruning": true
                   },
@@ -2205,7 +2160,7 @@
                       }
                     }
                   ],
-                  "_postman_id": "51f498a3-15de-4f7d-beb0-6a8cfc07ccbb",
+                  "id": "51f498a3-15de-4f7d-beb0-6a8cfc07ccbb",
                   "protocolProfileBehavior": {
                     "disableBodyPruning": true
                   },
@@ -2227,10 +2182,7 @@
                           "type": "text",
                           "disabled": true
                         }
-                      ],
-                      "options": {
-                        "formdata": {}
-                      }
+                      ]
                     },
                     "url": {
                       "raw": "{{BaseURL}}/pet/{{PetID}}",
@@ -2269,7 +2221,7 @@
                       }
                     }
                   ],
-                  "_postman_id": "dc6cc5df-f31d-4e76-b3e7-1abaa452554e",
+                  "id": "dc6cc5df-f31d-4e76-b3e7-1abaa452554e",
                   "protocolProfileBehavior": {
                     "disableBodyPruning": true
                   },
@@ -2296,7 +2248,7 @@
                       }
                     }
                   ],
-                  "_postman_id": "4fc54009-3107-4b5b-87ae-fd5272200450",
+                  "id": "4fc54009-3107-4b5b-87ae-fd5272200450",
                   "protocolProfileBehavior": {
                     "disableBodyPruning": true
                   },
@@ -2332,7 +2284,7 @@
                       }
                     }
                   ],
-                  "_postman_id": "7dae3fa5-8500-409b-88bb-7ab5dd7e4d8d",
+                  "id": "7dae3fa5-8500-409b-88bb-7ab5dd7e4d8d",
                   "protocolProfileBehavior": {
                     "disableBodyPruning": true
                   },
@@ -2366,7 +2318,7 @@
                       }
                     }
                   ],
-                  "_postman_id": "f20ae485-f65d-4361-8724-50c04ab52b0e",
+                  "id": "f20ae485-f65d-4361-8724-50c04ab52b0e",
                   "protocolProfileBehavior": {
                     "disableBodyPruning": true
                   },
@@ -2381,18 +2333,14 @@
                           "type": "file",
                           "src": "wMf2s7VLn/skynews-dog-german-shepherd_5679693.jpg"
                         }
-                      ],
-                      "options": {
-                        "formdata": {}
-                      }
+                      ]
                     },
                     "url": "{{BaseURL}}/pet/{{PetID}}"
                   },
                   "response": []
                 }
               ],
-              "_postman_id": "121a0ecb-293d-486f-8d4e-7fb84e602cce",
-              "_postman_isSubFolder": true
+              "id": "121a0ecb-293d-486f-8d4e-7fb84e602cce"
             },
             {
               "name": "TestCases - UserStory - 201 Create new Pet",
@@ -2491,7 +2439,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "8129e7ab-8910-418f-8b20-852fbaa808a7",
+                          "id": "8129e7ab-8910-418f-8b20-852fbaa808a7",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -2512,8 +2460,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "fcc24795-7434-426d-9152-967ff80fb48e",
-                      "_postman_isSubFolder": true
+                      "id": "fcc24795-7434-426d-9152-967ff80fb48e"
                     },
                     {
                       "name": "TC-002 Register pet with string in ID",
@@ -2537,7 +2484,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "66142eb4-e7b5-4682-b681-e1aab6958236",
+                          "id": "66142eb4-e7b5-4682-b681-e1aab6958236",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -2558,8 +2505,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "41169eb2-fc79-46af-96f9-6150054f8dee",
-                      "_postman_isSubFolder": true
+                      "id": "41169eb2-fc79-46af-96f9-6150054f8dee"
                     },
                     {
                       "name": "TC-003 Try to register pet with  symbols in ID",
@@ -2583,7 +2529,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "c90c677e-ff70-445b-866c-0ac9eb545670",
+                          "id": "c90c677e-ff70-445b-866c-0ac9eb545670",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -2604,8 +2550,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "da40ca8a-e431-41b9-900b-48d5c36bf720",
-                      "_postman_isSubFolder": true
+                      "id": "da40ca8a-e431-41b9-900b-48d5c36bf720"
                     },
                     {
                       "name": "TC-004 Try to register pet with  null value  ID",
@@ -2629,7 +2574,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "667d7d15-c625-49f7-b418-8b9e573d6463",
+                          "id": "667d7d15-c625-49f7-b418-8b9e573d6463",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -2650,8 +2595,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "14d910cc-c9a3-4c10-b2a9-0ad3d99e318a",
-                      "_postman_isSubFolder": true
+                      "id": "14d910cc-c9a3-4c10-b2a9-0ad3d99e318a"
                     },
                     {
                       "name": "TC-005 Try to register Pet with ID that alrady exist",
@@ -2675,7 +2619,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "d2f06a73-f517-4122-a3ef-b131565fd082",
+                          "id": "d2f06a73-f517-4122-a3ef-b131565fd082",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -2714,7 +2658,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "be46eed1-c726-49d2-93f9-f5f005fb13fc",
+                          "id": "be46eed1-c726-49d2-93f9-f5f005fb13fc",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -2735,12 +2679,10 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "570c796d-b44d-41bc-8ae2-b8280ccfefc3",
-                      "_postman_isSubFolder": true
+                      "id": "570c796d-b44d-41bc-8ae2-b8280ccfefc3"
                     }
                   ],
-                  "_postman_id": "4ade5de8-f11b-4765-8741-4dbaad4a1d7e",
-                  "_postman_isSubFolder": true
+                  "id": "4ade5de8-f11b-4765-8741-4dbaad4a1d7e"
                 },
                 {
                   "name": "TS-002 \"ID\" in category section",
@@ -2777,7 +2719,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "d34097f3-d658-467c-8721-8f7a246b203e",
+                          "id": "d34097f3-d658-467c-8721-8f7a246b203e",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -2798,8 +2740,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "0a462562-b510-4fb9-a7a4-4d03f3050e1e",
-                      "_postman_isSubFolder": true
+                      "id": "0a462562-b510-4fb9-a7a4-4d03f3050e1e"
                     },
                     {
                       "name": "TC-007 Add category ID using string",
@@ -2823,7 +2764,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "9dd9f87c-080c-455e-9833-f3084c62d8f8",
+                          "id": "9dd9f87c-080c-455e-9833-f3084c62d8f8",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -2844,8 +2785,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "5aaf1906-f30c-4660-a85a-56fa400d1353",
-                      "_postman_isSubFolder": true
+                      "id": "5aaf1906-f30c-4660-a85a-56fa400d1353"
                     },
                     {
                       "name": "TC-008 Add category ID using  symbols",
@@ -2869,7 +2809,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "716dc911-3cc0-4b57-a55c-8904484c3e26",
+                          "id": "716dc911-3cc0-4b57-a55c-8904484c3e26",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -2890,8 +2830,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "151bf236-e7d0-4039-a452-913047c260be",
-                      "_postman_isSubFolder": true
+                      "id": "151bf236-e7d0-4039-a452-913047c260be"
                     },
                     {
                       "name": "TC-009 Add category ID using  symbols Copy",
@@ -2915,7 +2854,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "1be5755d-b3a9-46b1-b24f-417d23e64f0f",
+                          "id": "1be5755d-b3a9-46b1-b24f-417d23e64f0f",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -2936,8 +2875,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "d1781c14-36a9-46dc-a714-35e5e27c2058",
-                      "_postman_isSubFolder": true
+                      "id": "d1781c14-36a9-46dc-a714-35e5e27c2058"
                     },
                     {
                       "name": "TC-010 Try to add category ID that already exist",
@@ -2961,7 +2899,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "c50dda25-57a8-45e0-b948-1938cb1dfa7e",
+                          "id": "c50dda25-57a8-45e0-b948-1938cb1dfa7e",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3000,7 +2938,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "d5f5e9b0-c61a-4765-9564-b704978ea51a",
+                          "id": "d5f5e9b0-c61a-4765-9564-b704978ea51a",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3021,12 +2959,10 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "2e793ed1-0966-4140-afe9-1b75fd75f089",
-                      "_postman_isSubFolder": true
+                      "id": "2e793ed1-0966-4140-afe9-1b75fd75f089"
                     }
                   ],
-                  "_postman_id": "7ee3ffda-123f-4c34-81d6-bf57a55db22b",
-                  "_postman_isSubFolder": true
+                  "id": "7ee3ffda-123f-4c34-81d6-bf57a55db22b"
                 },
                 {
                   "name": "TS-003 \"Name\" in category section",
@@ -3053,7 +2989,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "2d64e228-0c1c-43d7-82cb-7d2d2bce2ae2",
+                          "id": "2d64e228-0c1c-43d7-82cb-7d2d2bce2ae2",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3074,8 +3010,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "87df13cf-428c-41e1-ab05-6ed842bed472",
-                      "_postman_isSubFolder": true
+                      "id": "87df13cf-428c-41e1-ab05-6ed842bed472"
                     },
                     {
                       "name": "TC-012 Add category name using string and only Upper cases",
@@ -3099,7 +3034,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "58bfecfc-b56f-4b03-98e2-408bd580d171",
+                          "id": "58bfecfc-b56f-4b03-98e2-408bd580d171",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3120,8 +3055,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "575d7024-d1af-407e-acde-d1da93f39137",
-                      "_postman_isSubFolder": true
+                      "id": "575d7024-d1af-407e-acde-d1da93f39137"
                     },
                     {
                       "name": "TC-013 Add category name using string and only  lower cases",
@@ -3145,7 +3079,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "57479a55-e561-488e-bd64-bcbfbfe2ef8f",
+                          "id": "57479a55-e561-488e-bd64-bcbfbfe2ef8f",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3166,8 +3100,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "32551656-5aea-4d60-8a9b-3a1465beca2b",
-                      "_postman_isSubFolder": true
+                      "id": "32551656-5aea-4d60-8a9b-3a1465beca2b"
                     },
                     {
                       "name": "TC-014 Try to add category name using integer",
@@ -3191,7 +3124,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "7a5f417f-b466-4a55-aee3-a6a498f5195c",
+                          "id": "7a5f417f-b466-4a55-aee3-a6a498f5195c",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3212,8 +3145,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "b5f9e89f-10b8-4627-ba7e-9f87a04367fb",
-                      "_postman_isSubFolder": true
+                      "id": "b5f9e89f-10b8-4627-ba7e-9f87a04367fb"
                     },
                     {
                       "name": "TC-015 Try to add category name using symbols",
@@ -3237,7 +3169,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "fa8e9f3f-53a4-46e4-b90a-90de320b59f8",
+                          "id": "fa8e9f3f-53a4-46e4-b90a-90de320b59f8",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3258,8 +3190,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "d689294d-f9cf-4aa1-900b-d7db93c099f5",
-                      "_postman_isSubFolder": true
+                      "id": "d689294d-f9cf-4aa1-900b-d7db93c099f5"
                     },
                     {
                       "name": "TC-016 Try to add category name using \"null\" value",
@@ -3283,7 +3214,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "026fc2e6-134f-4134-aca2-cf33c3476294",
+                          "id": "026fc2e6-134f-4134-aca2-cf33c3476294",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3304,8 +3235,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "561d8454-e24a-4aa1-b6b7-411300bf2073",
-                      "_postman_isSubFolder": true
+                      "id": "561d8454-e24a-4aa1-b6b7-411300bf2073"
                     },
                     {
                       "name": "TC-017 Try to add category name using space",
@@ -3329,7 +3259,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "71bcc071-7905-49fc-9f98-a2e0c58a7dd8",
+                          "id": "71bcc071-7905-49fc-9f98-a2e0c58a7dd8",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3350,8 +3280,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "56ea3ef6-446b-44b1-893c-40c05b134f61",
-                      "_postman_isSubFolder": true
+                      "id": "56ea3ef6-446b-44b1-893c-40c05b134f61"
                     },
                     {
                       "name": "TC-018 Try to add category name using combination of string and integer",
@@ -3375,7 +3304,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "29b5ca34-af8b-4ba4-96bf-4e1a97e0a8f8",
+                          "id": "29b5ca34-af8b-4ba4-96bf-4e1a97e0a8f8",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3396,8 +3325,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "d51b47b3-6f1b-4440-9ea2-5871c4a3c6db",
-                      "_postman_isSubFolder": true
+                      "id": "d51b47b3-6f1b-4440-9ea2-5871c4a3c6db"
                     },
                     {
                       "name": "TC-019 Try to add category name using combination of strings,interes and symbols",
@@ -3421,7 +3349,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "933a06a8-9f66-4540-a3d1-f395167ecc10",
+                          "id": "933a06a8-9f66-4540-a3d1-f395167ecc10",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3442,8 +3370,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "420d9cdf-a861-4c53-a54f-2a861d58cd61",
-                      "_postman_isSubFolder": true
+                      "id": "420d9cdf-a861-4c53-a54f-2a861d58cd61"
                     },
                     {
                       "name": "TC-022 Try to add category name using decimal",
@@ -3467,7 +3394,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "2b6d6be3-a66e-4921-9871-583362d59f4b",
+                          "id": "2b6d6be3-a66e-4921-9871-583362d59f4b",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3488,12 +3415,10 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "f137a1ee-786b-41ba-bf9a-7db123e97732",
-                      "_postman_isSubFolder": true
+                      "id": "f137a1ee-786b-41ba-bf9a-7db123e97732"
                     }
                   ],
-                  "_postman_id": "bb354b78-c0ed-41ff-9066-d78e7b859d90",
-                  "_postman_isSubFolder": true
+                  "id": "bb354b78-c0ed-41ff-9066-d78e7b859d90"
                 },
                 {
                   "name": "TS-004 Pet name field",
@@ -3523,7 +3448,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "f03ecc40-eafd-4584-8161-af4c20a5f281",
+                          "id": "f03ecc40-eafd-4584-8161-af4c20a5f281",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3544,8 +3469,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "9faf1b77-38e5-48c1-b813-1ebebc094544",
-                      "_postman_isSubFolder": true
+                      "id": "9faf1b77-38e5-48c1-b813-1ebebc094544"
                     },
                     {
                       "name": "TC-023 Add pet name using string Upper and lower cases",
@@ -3572,7 +3496,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "fbc261cb-794c-4094-843d-eb32b3f67bb5",
+                          "id": "fbc261cb-794c-4094-843d-eb32b3f67bb5",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3593,8 +3517,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "16131545-e372-41d4-94d0-2d30b7171d00",
-                      "_postman_isSubFolder": true
+                      "id": "16131545-e372-41d4-94d0-2d30b7171d00"
                     },
                     {
                       "name": "TC-025 Add pet name using string and only  lower cases",
@@ -3621,7 +3544,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "4947f7c4-361c-4896-b79d-62526abbdc20",
+                          "id": "4947f7c4-361c-4896-b79d-62526abbdc20",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3642,8 +3565,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "7f01f192-1320-4511-84ac-ca349b387c3f",
-                      "_postman_isSubFolder": true
+                      "id": "7f01f192-1320-4511-84ac-ca349b387c3f"
                     },
                     {
                       "name": "TC-026 Try to add pet name using integer",
@@ -3668,7 +3590,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "0ef72f4a-f666-4137-8bf0-8fbf6dee2312",
+                          "id": "0ef72f4a-f666-4137-8bf0-8fbf6dee2312",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3689,8 +3611,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "c877d6f1-3918-467f-a0be-5e31b0a0a518",
-                      "_postman_isSubFolder": true
+                      "id": "c877d6f1-3918-467f-a0be-5e31b0a0a518"
                     },
                     {
                       "name": "TC-027 Try to add pet name using symbols",
@@ -3715,7 +3636,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "5044cc71-b796-46e9-b0b9-8986c8d59f43",
+                          "id": "5044cc71-b796-46e9-b0b9-8986c8d59f43",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3736,8 +3657,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "a122ee53-9ffe-4e6a-8305-ff67884944a3",
-                      "_postman_isSubFolder": true
+                      "id": "a122ee53-9ffe-4e6a-8305-ff67884944a3"
                     },
                     {
                       "name": "TC-028 Try to add pet name using \"null\" value",
@@ -3762,7 +3682,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "4b33e9e5-f0d2-4438-b618-66b759db7766",
+                          "id": "4b33e9e5-f0d2-4438-b618-66b759db7766",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3783,8 +3703,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "9235ddd5-df8b-486a-9e66-0a29a02b956b",
-                      "_postman_isSubFolder": true
+                      "id": "9235ddd5-df8b-486a-9e66-0a29a02b956b"
                     },
                     {
                       "name": "TC-029 Try to add pet name using space",
@@ -3809,7 +3728,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "ea023af1-feca-483e-a8a9-bc298815f1c4",
+                          "id": "ea023af1-feca-483e-a8a9-bc298815f1c4",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3830,8 +3749,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "57d12bfb-f578-4ca6-871a-cfaaaad1cbca",
-                      "_postman_isSubFolder": true
+                      "id": "57d12bfb-f578-4ca6-871a-cfaaaad1cbca"
                     },
                     {
                       "name": "TC-030 Try to add pet name using combination of string and integer",
@@ -3856,7 +3774,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "c3ad6671-157d-491d-be57-f50dab046f0d",
+                          "id": "c3ad6671-157d-491d-be57-f50dab046f0d",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3877,8 +3795,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "bde5ee6b-db54-49f8-a12c-40ccf921301b",
-                      "_postman_isSubFolder": true
+                      "id": "bde5ee6b-db54-49f8-a12c-40ccf921301b"
                     },
                     {
                       "name": "TC-031 Try to add pet name using 1 string character",
@@ -3903,7 +3820,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "3d11918a-b547-44e5-ae1e-5ba2be8cc1ed",
+                          "id": "3d11918a-b547-44e5-ae1e-5ba2be8cc1ed",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3924,8 +3841,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "aa18772b-3087-4c6c-96e1-37bb8aee712a",
-                      "_postman_isSubFolder": true
+                      "id": "aa18772b-3087-4c6c-96e1-37bb8aee712a"
                     },
                     {
                       "name": "TC-032 Try to add pet name using 55 string character",
@@ -3950,7 +3866,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "450c0919-1934-46ba-84ba-76a9972eb5bb",
+                          "id": "450c0919-1934-46ba-84ba-76a9972eb5bb",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -3971,8 +3887,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "ea7e6fc8-8dc1-4707-8009-c5d1120ae23c",
-                      "_postman_isSubFolder": true
+                      "id": "ea7e6fc8-8dc1-4707-8009-c5d1120ae23c"
                     },
                     {
                       "name": "TC-033 Try to add pet name using decimal",
@@ -3997,7 +3912,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "6ca8a2d6-8492-4f3a-9cf5-23bded947fbe",
+                          "id": "6ca8a2d6-8492-4f3a-9cf5-23bded947fbe",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -4018,12 +3933,10 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "33eac543-8935-4d20-94f3-02de7a710c70",
-                      "_postman_isSubFolder": true
+                      "id": "33eac543-8935-4d20-94f3-02de7a710c70"
                     }
                   ],
-                  "_postman_id": "5e72584f-e70e-4a41-b6a5-0ddd159a5faf",
-                  "_postman_isSubFolder": true
+                  "id": "5e72584f-e70e-4a41-b6a5-0ddd159a5faf"
                 },
                 {
                   "name": "TS-005 ID in tag section",
@@ -4119,7 +4032,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "d5087db7-5b70-46ff-8bf1-6ad4743e577a",
+                          "id": "d5087db7-5b70-46ff-8bf1-6ad4743e577a",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -4140,8 +4053,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "d8c56e76-76d2-4e29-ac24-8654eef53af4",
-                      "_postman_isSubFolder": true
+                      "id": "d8c56e76-76d2-4e29-ac24-8654eef53af4"
                     },
                     {
                       "name": "TC-035 Add tags ID using string",
@@ -4166,7 +4078,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "21084ce5-7139-4c7a-84ca-f9b8c1cd06be",
+                          "id": "21084ce5-7139-4c7a-84ca-f9b8c1cd06be",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -4187,8 +4099,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "e1cf6066-94ca-43f0-b5f5-dd877514ca1f",
-                      "_postman_isSubFolder": true
+                      "id": "e1cf6066-94ca-43f0-b5f5-dd877514ca1f"
                     },
                     {
                       "name": "TC-036 Add tags ID using  symbols",
@@ -4213,7 +4124,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "714689cd-65a3-41ff-a826-80d61663f0ab",
+                          "id": "714689cd-65a3-41ff-a826-80d61663f0ab",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -4234,8 +4145,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "fe615793-a88b-4166-ae68-098f94077e41",
-                      "_postman_isSubFolder": true
+                      "id": "fe615793-a88b-4166-ae68-098f94077e41"
                     },
                     {
                       "name": "TC-037 Add tags ID using  \"null\"",
@@ -4260,7 +4170,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "dd1f5e02-51ef-4f2a-8de7-2b412b7a6103",
+                          "id": "dd1f5e02-51ef-4f2a-8de7-2b412b7a6103",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -4281,8 +4191,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "450bc3bd-6e67-4005-85ee-5406e346d81e",
-                      "_postman_isSubFolder": true
+                      "id": "450bc3bd-6e67-4005-85ee-5406e346d81e"
                     },
                     {
                       "name": "TC-038 Try to make second order with same ID in tags section",
@@ -4307,7 +4216,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "c8038c0b-510f-4833-ad4d-3240637fa58e",
+                          "id": "c8038c0b-510f-4833-ad4d-3240637fa58e",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -4347,7 +4256,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "e963f9a4-9ccf-440d-8f14-aefba63cb70a",
+                          "id": "e963f9a4-9ccf-440d-8f14-aefba63cb70a",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -4368,12 +4277,10 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "ceaafb6d-a088-4682-992a-a06900888067",
-                      "_postman_isSubFolder": true
+                      "id": "ceaafb6d-a088-4682-992a-a06900888067"
                     }
                   ],
-                  "_postman_id": "6b1bd153-5905-489c-a928-dca014681f85",
-                  "_postman_isSubFolder": true
+                  "id": "6b1bd153-5905-489c-a928-dca014681f85"
                 },
                 {
                   "name": "TS-006 \"Name\" in tags section",
@@ -4403,7 +4310,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "a8e5d47d-1de0-4497-a196-8e8aea2e3528",
+                          "id": "a8e5d47d-1de0-4497-a196-8e8aea2e3528",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -4424,8 +4331,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "505b949c-8710-4ff1-92d5-b56c6530f784",
-                      "_postman_isSubFolder": true
+                      "id": "505b949c-8710-4ff1-92d5-b56c6530f784"
                     },
                     {
                       "name": "TC-040 Add tags name using string and only Upper cases",
@@ -4452,7 +4358,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "4010c19f-f6ff-48e9-99d1-e624cc9eb00a",
+                          "id": "4010c19f-f6ff-48e9-99d1-e624cc9eb00a",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -4473,8 +4379,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "19f7d59c-c65a-41da-8129-f46e55f30505",
-                      "_postman_isSubFolder": true
+                      "id": "19f7d59c-c65a-41da-8129-f46e55f30505"
                     },
                     {
                       "name": "TC-041 Add tags name using string and only  lower cases",
@@ -4501,7 +4406,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "76463012-ddba-40e5-b418-afef8e6c165a",
+                          "id": "76463012-ddba-40e5-b418-afef8e6c165a",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -4522,8 +4427,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "5144b11a-cc5c-4de4-afbd-dec3918323aa",
-                      "_postman_isSubFolder": true
+                      "id": "5144b11a-cc5c-4de4-afbd-dec3918323aa"
                     },
                     {
                       "name": "TC-042 Try to add tags name using integer",
@@ -4550,7 +4454,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "42c9f449-221e-4522-9eaa-6cec2ff4e71e",
+                          "id": "42c9f449-221e-4522-9eaa-6cec2ff4e71e",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -4571,8 +4475,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "3eac49d2-fd59-4616-8663-ae878ab8db9e",
-                      "_postman_isSubFolder": true
+                      "id": "3eac49d2-fd59-4616-8663-ae878ab8db9e"
                     },
                     {
                       "name": "TC-043 Try to add tags name using symbols",
@@ -4597,7 +4500,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "b2d5c34f-d64f-4987-bcbf-0ef7273ba505",
+                          "id": "b2d5c34f-d64f-4987-bcbf-0ef7273ba505",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -4618,8 +4521,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "2b6bf748-7608-4899-a81a-a5cb9cb4fcb4",
-                      "_postman_isSubFolder": true
+                      "id": "2b6bf748-7608-4899-a81a-a5cb9cb4fcb4"
                     },
                     {
                       "name": "TC-044 Try to add tags name using \"null\" value",
@@ -4646,7 +4548,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "6fb7b3f9-a930-4a02-8218-ff9a1fe7cab8",
+                          "id": "6fb7b3f9-a930-4a02-8218-ff9a1fe7cab8",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -4667,8 +4569,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "ce6a17bc-7a57-47e3-b14f-a55dfa8f342a",
-                      "_postman_isSubFolder": true
+                      "id": "ce6a17bc-7a57-47e3-b14f-a55dfa8f342a"
                     },
                     {
                       "name": "TC-045 Try to add tags name using space",
@@ -4695,7 +4596,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "2ca25522-80d5-4cfc-9da4-396cd45dd96c",
+                          "id": "2ca25522-80d5-4cfc-9da4-396cd45dd96c",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -4716,8 +4617,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "b1464f68-2d80-4a40-8f49-eb0906378991",
-                      "_postman_isSubFolder": true
+                      "id": "b1464f68-2d80-4a40-8f49-eb0906378991"
                     },
                     {
                       "name": "TC-046 Try to add tags name using combination of string and integer",
@@ -4742,7 +4642,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "afe0eb7b-e593-44ed-b323-8a0059ecffc1",
+                          "id": "afe0eb7b-e593-44ed-b323-8a0059ecffc1",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -4763,8 +4663,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "c101bbf6-7678-4568-acc3-3d3820618c1d",
-                      "_postman_isSubFolder": true
+                      "id": "c101bbf6-7678-4568-acc3-3d3820618c1d"
                     },
                     {
                       "name": "TC-047 Try to add tags name using 1 string character",
@@ -4789,7 +4688,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "fbc94d20-7c7c-4611-8e59-2f10527bc50d",
+                          "id": "fbc94d20-7c7c-4611-8e59-2f10527bc50d",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -4810,8 +4709,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "c2587451-6c0e-4395-8f7e-97cff4d7b2d5",
-                      "_postman_isSubFolder": true
+                      "id": "c2587451-6c0e-4395-8f7e-97cff4d7b2d5"
                     },
                     {
                       "name": "TC-048 Try to add tags name using 55 string character",
@@ -4836,7 +4734,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "67d31338-a56b-4abe-b5ee-e5efdf594211",
+                          "id": "67d31338-a56b-4abe-b5ee-e5efdf594211",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -4857,8 +4755,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "ac88ec85-af65-4bf8-986f-9e45aea3b328",
-                      "_postman_isSubFolder": true
+                      "id": "ac88ec85-af65-4bf8-986f-9e45aea3b328"
                     },
                     {
                       "name": "TC-049 Try to add tags name using decimal",
@@ -4883,7 +4780,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "4345b503-67a3-4322-bebd-0ef736e1da4c",
+                          "id": "4345b503-67a3-4322-bebd-0ef736e1da4c",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -4904,16 +4801,13 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "6a5e41f1-f329-4991-9bc9-bb6cc9c3fb70",
-                      "_postman_isSubFolder": true
+                      "id": "6a5e41f1-f329-4991-9bc9-bb6cc9c3fb70"
                     }
                   ],
-                  "_postman_id": "f848637c-1801-427a-bffa-5e3dfc1fb310",
-                  "_postman_isSubFolder": true
+                  "id": "f848637c-1801-427a-bffa-5e3dfc1fb310"
                 }
               ],
-              "_postman_id": "0b85faba-faae-41e4-aaf3-7e3233111b9c",
-              "_postman_isSubFolder": true
+              "id": "0b85faba-faae-41e4-aaf3-7e3233111b9c"
             },
             {
               "name": "TestCase-UserStory- 201.1 /Update/",
@@ -4940,7 +4834,7 @@
                           }
                         }
                       ],
-                      "_postman_id": "b205e70b-4795-418b-9212-622ee8017c1b",
+                      "id": "b205e70b-4795-418b-9212-622ee8017c1b",
                       "protocolProfileBehavior": {
                         "disableBodyPruning": true
                       },
@@ -4979,7 +4873,7 @@
                           }
                         }
                       ],
-                      "_postman_id": "399efcc0-0e9b-4427-bcb8-fa4789bee36d",
+                      "id": "399efcc0-0e9b-4427-bcb8-fa4789bee36d",
                       "protocolProfileBehavior": {
                         "disableBodyPruning": true
                       },
@@ -5000,8 +4894,7 @@
                       "response": []
                     }
                   ],
-                  "_postman_id": "4b23da28-209a-40a0-ae18-98e35135147b",
-                  "_postman_isSubFolder": true
+                  "id": "4b23da28-209a-40a0-ae18-98e35135147b"
                 },
                 {
                   "name": "TC-002",
@@ -5025,7 +4918,7 @@
                           }
                         }
                       ],
-                      "_postman_id": "3e38c89d-0ea9-4964-996b-e2d2f205935b",
+                      "id": "3e38c89d-0ea9-4964-996b-e2d2f205935b",
                       "protocolProfileBehavior": {
                         "disableBodyPruning": true
                       },
@@ -5064,7 +4957,7 @@
                           }
                         }
                       ],
-                      "_postman_id": "1fd60c4f-7181-4cdd-a51c-7e52457b692e",
+                      "id": "1fd60c4f-7181-4cdd-a51c-7e52457b692e",
                       "protocolProfileBehavior": {
                         "disableBodyPruning": true
                       },
@@ -5103,7 +4996,7 @@
                           }
                         }
                       ],
-                      "_postman_id": "a7c58ef7-cf7e-497f-9ace-2dfb7e914fa6",
+                      "id": "a7c58ef7-cf7e-497f-9ace-2dfb7e914fa6",
                       "protocolProfileBehavior": {
                         "disableBodyPruning": true
                       },
@@ -5130,12 +5023,10 @@
                       "response": []
                     }
                   ],
-                  "_postman_id": "58272e92-5770-4828-b6d5-930fcad30397",
-                  "_postman_isSubFolder": true
+                  "id": "58272e92-5770-4828-b6d5-930fcad30397"
                 }
               ],
-              "_postman_id": "e8b6cd28-80be-42ba-82bb-bca8159319bf",
-              "_postman_isSubFolder": true
+              "id": "e8b6cd28-80be-42ba-82bb-bca8159319bf"
             },
             {
               "name": "TestCase-UserStory - 201.2 /Find Pet by Availability/",
@@ -5169,7 +5060,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "77be43f4-79bc-4296-939f-52e8e51736bf",
+                          "id": "77be43f4-79bc-4296-939f-52e8e51736bf",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -5213,7 +5104,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "208ad706-3b1b-4b5f-bd79-2ac2ad689044",
+                          "id": "208ad706-3b1b-4b5f-bd79-2ac2ad689044",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -5278,7 +5169,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "3abb90db-7288-4d57-a507-38eb742d373e",
+                          "id": "3abb90db-7288-4d57-a507-38eb742d373e",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -5297,8 +5188,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "71463bd2-2fe5-4de7-950d-7bf472b66647",
-                      "_postman_isSubFolder": true
+                      "id": "71463bd2-2fe5-4de7-950d-7bf472b66647"
                     },
                     {
                       "name": "[P]TC-002 Find pet by availability - \"pending\"",
@@ -5326,7 +5216,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "b550d84c-799b-439d-9c1f-0e9503d47cf4",
+                          "id": "b550d84c-799b-439d-9c1f-0e9503d47cf4",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -5370,7 +5260,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "a2949763-ac63-4762-9e0a-3019a7d02df8",
+                          "id": "a2949763-ac63-4762-9e0a-3019a7d02df8",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -5433,7 +5323,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "a40bd22f-1d91-429b-a2eb-2b60bf5c7f1a",
+                          "id": "a40bd22f-1d91-429b-a2eb-2b60bf5c7f1a",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -5452,8 +5342,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "a0005884-0c2c-427d-b448-7ee7ca24fe3c",
-                      "_postman_isSubFolder": true
+                      "id": "a0005884-0c2c-427d-b448-7ee7ca24fe3c"
                     },
                     {
                       "name": "[P]TC-003 Find pet by availability - \"sold\"",
@@ -5480,7 +5369,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "f5f6de30-a68c-4ad2-bc46-c55b81e30005",
+                          "id": "f5f6de30-a68c-4ad2-bc46-c55b81e30005",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -5521,7 +5410,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "2596adef-9c1e-4621-a065-dbb581bfd44b",
+                          "id": "2596adef-9c1e-4621-a065-dbb581bfd44b",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -5585,7 +5474,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "37a3aa74-cdf5-490a-89d8-4a55f842bbb8",
+                          "id": "37a3aa74-cdf5-490a-89d8-4a55f842bbb8",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -5604,8 +5493,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "1276e0bc-66eb-4af2-b77b-884feec6c8fa",
-                      "_postman_isSubFolder": true
+                      "id": "1276e0bc-66eb-4af2-b77b-884feec6c8fa"
                     },
                     {
                       "name": "[N]TC-004 Try to find pet by unique availability - \"0000\"",
@@ -5632,7 +5520,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "0b313422-5950-4ba3-b976-2b324126d489",
+                          "id": "0b313422-5950-4ba3-b976-2b324126d489",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -5676,7 +5564,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "f8704737-d1cc-4f82-851b-840dc3ad645c",
+                          "id": "f8704737-d1cc-4f82-851b-840dc3ad645c",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -5740,7 +5628,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "70bf677e-7ec8-4cd1-962e-2421bdedfe75",
+                          "id": "70bf677e-7ec8-4cd1-962e-2421bdedfe75",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -5759,8 +5647,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "d37b594d-558d-4ef7-a69b-90780358bbbf",
-                      "_postman_isSubFolder": true
+                      "id": "d37b594d-558d-4ef7-a69b-90780358bbbf"
                     },
                     {
                       "name": "[P]TC-005  Find pet by changed status",
@@ -5784,7 +5671,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "f3f31931-f488-4842-9898-657243b08f3c",
+                          "id": "f3f31931-f488-4842-9898-657243b08f3c",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -5822,7 +5709,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "bd35dcc2-eb3c-4778-8595-15511d81adf7",
+                          "id": "bd35dcc2-eb3c-4778-8595-15511d81adf7",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -5866,7 +5753,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "2c020bb0-f4a9-448d-892c-ea6fee3ef240",
+                          "id": "2c020bb0-f4a9-448d-892c-ea6fee3ef240",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -5930,7 +5817,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "f8644a4f-511d-4c55-836a-55eedea0a978",
+                          "id": "f8644a4f-511d-4c55-836a-55eedea0a978",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -5949,16 +5836,13 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "f3c6077f-b544-459e-8ffb-1470690140c0",
-                      "_postman_isSubFolder": true
+                      "id": "f3c6077f-b544-459e-8ffb-1470690140c0"
                     }
                   ],
-                  "_postman_id": "075e740f-7b63-4375-ac3f-9c636eaf3480",
-                  "_postman_isSubFolder": true
+                  "id": "075e740f-7b63-4375-ac3f-9c636eaf3480"
                 }
               ],
-              "_postman_id": "7cdcbb53-d45b-43ed-9961-33c42ece1672",
-              "_postman_isSubFolder": true
+              "id": "7cdcbb53-d45b-43ed-9961-33c42ece1672"
             },
             {
               "name": "TestCase- UserStory - 201.3 /Find existing Pet by ID/",
@@ -6001,7 +5885,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "ff057032-e146-48a4-a026-34557e61492c",
+                          "id": "ff057032-e146-48a4-a026-34557e61492c",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -6041,7 +5925,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "cdb9daec-7c7d-4531-aa40-a1ff46062402",
+                          "id": "cdb9daec-7c7d-4531-aa40-a1ff46062402",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -6053,8 +5937,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "2241cf64-e797-42a4-ae7f-b996fc65cdcb",
-                      "_postman_isSubFolder": true
+                      "id": "2241cf64-e797-42a4-ae7f-b996fc65cdcb"
                     },
                     {
                       "name": "TC-002",
@@ -6092,7 +5975,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "65bca7d1-f266-454b-8e08-b7193cb6969d",
+                          "id": "65bca7d1-f266-454b-8e08-b7193cb6969d",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -6132,7 +6015,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "2211b581-2ce2-427a-95e5-4b145961b028",
+                          "id": "2211b581-2ce2-427a-95e5-4b145961b028",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -6144,8 +6027,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "051cffda-896d-4efb-b8a8-8c82e7eecf37",
-                      "_postman_isSubFolder": true
+                      "id": "051cffda-896d-4efb-b8a8-8c82e7eecf37"
                     },
                     {
                       "name": "TC-003",
@@ -6183,7 +6065,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "c273177f-bdec-4157-ad23-45a4f8bed18d",
+                          "id": "c273177f-bdec-4157-ad23-45a4f8bed18d",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -6223,7 +6105,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "15a0d7a9-7c1c-472b-9558-1d3aab83871d",
+                          "id": "15a0d7a9-7c1c-472b-9558-1d3aab83871d",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -6235,16 +6117,13 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "304e28b0-d004-4e33-9109-01586ad53941",
-                      "_postman_isSubFolder": true
+                      "id": "304e28b0-d004-4e33-9109-01586ad53941"
                     }
                   ],
-                  "_postman_id": "f068e457-7538-4207-b321-f12ee2bf34b4",
-                  "_postman_isSubFolder": true
+                  "id": "f068e457-7538-4207-b321-f12ee2bf34b4"
                 }
               ],
-              "_postman_id": "42295b48-0838-4738-9145-5815427b6a1a",
-              "_postman_isSubFolder": true
+              "id": "42295b48-0838-4738-9145-5815427b6a1a"
             },
             {
               "name": "TestCase- UserStory- 201.4/Find all Inventory of Pets/",
@@ -6288,7 +6167,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "ef7d78b3-e665-482f-a61c-bbe56edb4ed7",
+                          "id": "ef7d78b3-e665-482f-a61c-bbe56edb4ed7",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -6328,7 +6207,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "b323ea68-0db2-4fcc-853d-d354bfc31390",
+                          "id": "b323ea68-0db2-4fcc-853d-d354bfc31390",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -6371,8 +6250,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "0c30e145-735b-4030-8a85-8dfff3d9d4a5",
-                      "_postman_isSubFolder": true
+                      "id": "0c30e145-735b-4030-8a85-8dfff3d9d4a5"
                     },
                     {
                       "name": "TC-002",
@@ -6410,7 +6288,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "96c08eaa-a195-46af-8f1b-9d6522884f3a",
+                          "id": "96c08eaa-a195-46af-8f1b-9d6522884f3a",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -6450,7 +6328,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "c188a9aa-b0df-4311-854a-a9b12fcba63f",
+                          "id": "c188a9aa-b0df-4311-854a-a9b12fcba63f",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -6498,16 +6376,13 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "bb7a35cd-3f0c-4074-b698-08805753d4eb",
-                      "_postman_isSubFolder": true
+                      "id": "bb7a35cd-3f0c-4074-b698-08805753d4eb"
                     }
                   ],
-                  "_postman_id": "abf2c53d-698d-4927-941a-fe945c2672ec",
-                  "_postman_isSubFolder": true
+                  "id": "abf2c53d-698d-4927-941a-fe945c2672ec"
                 }
               ],
-              "_postman_id": "aff1fae5-3e08-4393-ae16-2dc6a9162056",
-              "_postman_isSubFolder": true
+              "id": "aff1fae5-3e08-4393-ae16-2dc6a9162056"
             },
             {
               "name": "TestCase- UserStory- 201.5/Delete Existing Pet by ID/",
@@ -6551,7 +6426,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "2f545349-cd49-418e-a5e7-4b75208523a6",
+                          "id": "2f545349-cd49-418e-a5e7-4b75208523a6",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -6591,7 +6466,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "2c8ec585-c424-42f5-b3db-3a110ca5bc41",
+                          "id": "2c8ec585-c424-42f5-b3db-3a110ca5bc41",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -6630,7 +6505,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "6240a203-f24e-40cd-b6b6-fe591b59127f",
+                          "id": "6240a203-f24e-40cd-b6b6-fe591b59127f",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -6658,8 +6533,7 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "a8df31b7-5d06-49d0-b8e8-4a4d2b2f6770",
-                      "_postman_isSubFolder": true
+                      "id": "a8df31b7-5d06-49d0-b8e8-4a4d2b2f6770"
                     },
                     {
                       "name": "TC-002",
@@ -6696,7 +6570,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "1730d268-1efb-41a3-8415-7982750f7ef9",
+                          "id": "1730d268-1efb-41a3-8415-7982750f7ef9",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -6735,7 +6609,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "1acd9a2f-040e-471f-bd02-054b1d3a3e42",
+                          "id": "1acd9a2f-040e-471f-bd02-054b1d3a3e42",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -6765,7 +6639,7 @@
                               }
                             }
                           ],
-                          "_postman_id": "3aad78ae-d2d2-4c51-ac7a-8c05820ea8c6",
+                          "id": "3aad78ae-d2d2-4c51-ac7a-8c05820ea8c6",
                           "protocolProfileBehavior": {
                             "disableBodyPruning": true
                           },
@@ -6784,20 +6658,16 @@
                           "response": []
                         }
                       ],
-                      "_postman_id": "20357831-46c9-4c81-b7a6-f48cd64294df",
-                      "_postman_isSubFolder": true
+                      "id": "20357831-46c9-4c81-b7a6-f48cd64294df"
                     }
                   ],
-                  "_postman_id": "cf41208a-8c9c-4de1-b9a8-944bb1afd3e2",
-                  "_postman_isSubFolder": true
+                  "id": "cf41208a-8c9c-4de1-b9a8-944bb1afd3e2"
                 }
               ],
-              "_postman_id": "1834848a-c3b1-4ab8-a5d3-70bdeead5ce2",
-              "_postman_isSubFolder": true
+              "id": "1834848a-c3b1-4ab8-a5d3-70bdeead5ce2"
             }
           ],
-          "_postman_id": "d4278436-48a3-4911-805f-9a0989d2d558",
-          "_postman_isSubFolder": true
+          "id": "d4278436-48a3-4911-805f-9a0989d2d558"
         },
         {
           "name": "User",
@@ -6821,7 +6691,7 @@
                       }
                     }
                   ],
-                  "_postman_id": "a2544c83-df30-4b20-bce9-01fba2e6afc2",
+                  "id": "a2544c83-df30-4b20-bce9-01fba2e6afc2",
                   "protocolProfileBehavior": {
                     "disableBodyPruning": true
                   },
@@ -6857,7 +6727,7 @@
                       }
                     }
                   ],
-                  "_postman_id": "d84c0706-811b-4f87-9851-c0727ce288c5",
+                  "id": "d84c0706-811b-4f87-9851-c0727ce288c5",
                   "protocolProfileBehavior": {
                     "disableBodyPruning": true
                   },
@@ -6894,7 +6764,7 @@
                       }
                     }
                   ],
-                  "_postman_id": "cfafbf1c-9a98-4831-9f1a-e847f1f45943",
+                  "id": "cfafbf1c-9a98-4831-9f1a-e847f1f45943",
                   "protocolProfileBehavior": {
                     "disableBodyPruning": true
                   },
@@ -6930,7 +6800,7 @@
                       }
                     }
                   ],
-                  "_postman_id": "4fd9d47b-5946-4715-b397-247c2cca9e06",
+                  "id": "4fd9d47b-5946-4715-b397-247c2cca9e06",
                   "protocolProfileBehavior": {
                     "disableBodyPruning": true
                   },
@@ -6966,7 +6836,7 @@
                       }
                     }
                   ],
-                  "_postman_id": "5172ddb9-a754-48d1-a03c-ea5e4517dc8e",
+                  "id": "5172ddb9-a754-48d1-a03c-ea5e4517dc8e",
                   "protocolProfileBehavior": {
                     "disableBodyPruning": true
                   },
@@ -7002,7 +6872,7 @@
                       }
                     }
                   ],
-                  "_postman_id": "477f84c0-e70c-4606-b5c7-cea2ea1a4e75",
+                  "id": "477f84c0-e70c-4606-b5c7-cea2ea1a4e75",
                   "protocolProfileBehavior": {
                     "disableBodyPruning": true
                   },
@@ -7029,7 +6899,7 @@
                       }
                     }
                   ],
-                  "_postman_id": "7602ef42-5f30-46b9-a6d3-04873262091b",
+                  "id": "7602ef42-5f30-46b9-a6d3-04873262091b",
                   "protocolProfileBehavior": {
                     "disableBodyPruning": true
                   },
@@ -7059,7 +6929,7 @@
                       }
                     }
                   ],
-                  "_postman_id": "8a20f6c5-e257-4215-81d3-48e14b4fad22",
+                  "id": "8a20f6c5-e257-4215-81d3-48e14b4fad22",
                   "protocolProfileBehavior": {
                     "disableBodyPruning": true
                   },
@@ -7080,15 +6950,13 @@
                   "response": []
                 }
               ],
-              "_postman_id": "f0a4c2fa-5392-49af-865b-e3dc504b7843",
-              "_postman_isSubFolder": true
+              "id": "f0a4c2fa-5392-49af-865b-e3dc504b7843"
             }
           ],
-          "_postman_id": "2f997034-1d05-4eb7-80f9-b9872b3e76d5",
-          "_postman_isSubFolder": true
+          "id": "2f997034-1d05-4eb7-80f9-b9872b3e76d5"
         }
       ],
-      "_postman_id": "b091165b-cda8-4808-b9d6-de05ab6d8c9e"
+      "id": "b091165b-cda8-4808-b9d6-de05ab6d8c9e"
     }
   ],
   "event": [
@@ -7115,7 +6983,7 @@
   ],
   "variable": [
     {
-      "id": "fff880a9-35f3-4920-a758-cc454e0f2be3",
+      "id": "bade7a25-b370-43aa-a6ca-f1dff6ba8270",
       "key": "BaseURL",
       "value": "https://petstore.swagger.io/v2",
       "type": "string"
