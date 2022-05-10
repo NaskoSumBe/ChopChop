@@ -2839,7 +2839,7 @@
                       "name": "TC-009 Add category ID using  symbols Copy",
                       "item": [
                         {
-                          "name": "[N] Add category ID using \"null value",
+                          "name": "[N] Add category ID using symbols",
                           "event": [
                             {
                               "listen": "test",
@@ -6988,7 +6988,7 @@
   ],
   "variable": [
     {
-      "id": "3bb1ce7b-e468-4772-9f36-26f936abfe8c",
+      "id": "e88af179-fd91-4c3c-8d66-fdf8e1986b41",
       "key": "BaseURL",
       "value": "https://petstore.swagger.io/v2",
       "type": "string"
