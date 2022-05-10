@@ -2586,7 +2586,7 @@
                             "header": [],
                             "body": {
                               "mode": "raw",
-                              "raw": "{\r\n  \"id\": null,\r\n  \"category\": {\r\n    \"id\": 0,\r\n    \"name\": \"string\"\r\n  },\r\n  \"name\": \"doggie\",\r\n  \"photoUrls\": [\r\n    \"string\"\r\n  ],\r\n  \"tags\": [\r\n    {\r\n      \"id\": 0,\r\n      \"name\": \"string\"\r\n    }\r\n  ],\r\n  \"status\": \"available\"\r\n}",
+                              "raw": "{\r\n  \"id\": {{null}},\r\n  \"category\": {\r\n    \"id\": 0,\r\n    \"name\": \"string\"\r\n  },\r\n  \"name\": \"doggie\",\r\n  \"photoUrls\": [\r\n    \"string\"\r\n  ],\r\n  \"tags\": [\r\n    {\r\n      \"id\": 0,\r\n      \"name\": \"string\"\r\n    }\r\n  ],\r\n  \"status\": \"available\"\r\n}",
                               "options": {
                                 "raw": {
                                   "language": "json"
@@ -6988,7 +6988,7 @@
   ],
   "variable": [
     {
-      "id": "e88af179-fd91-4c3c-8d66-fdf8e1986b41",
+      "id": "1eae3cb0-9b87-45e8-af69-1a16d87462cf",
       "key": "BaseURL",
       "value": "https://petstore.swagger.io/v2",
       "type": "string"
